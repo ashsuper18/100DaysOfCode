@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
 Hello World!
-I am joining the 100DaysofCode Challenge 😇.
+I'm taking part in the 100DaysofCode challenge. 😇.
 
 

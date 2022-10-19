@@ -21,7 +21,7 @@ equal.grid(row=1, column=0)
 miles_label = ttk.Label(text="Miles")
 miles_label.grid(row=1, column=2)
 
-# ******* Funitonality********
+# ******* Funitonality*********
 output_label = ttk.Label()
 output_label.grid(row=1, column=1)
 

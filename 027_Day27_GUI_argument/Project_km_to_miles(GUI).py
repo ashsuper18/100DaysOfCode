@@ -13,7 +13,7 @@ km_entry = ttk.Entry(width=10)
 km_entry.grid(row=0, column=1)
 
 km_label = ttk.Label(text="Km")
-km_label.grid(row=0, column=3)
+km_label.grid(row=0, column=2)
 
 equal = ttk.Label(text="is equal to")
 equal.grid(row=1, column=0)
